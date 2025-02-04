@@ -27,7 +27,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Item 3
 - Item 4
 - Item 5
-- ![The 1st test image](images/1stScreenShot.png)
+![first test image](1stScreenShot.png)
 
 <h2>Installation Steps</h2>
 
