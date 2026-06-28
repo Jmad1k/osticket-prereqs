@@ -18,7 +18,7 @@ This project demonstrates the deployment of **osTicket**, an open-source helpdes
 4.  **Database Configuration:** Created a dedicated database and user, granting the necessary privileges for osTicket.
 5.  **Final Installation:** Completed the web-based installer and verified the application's functionality.
 
-## Project Evidence
+## Project Evidence (Click images to enlarge)
 
 <a href="images/ServerMngr_RolesConfig.png" target="_blank">
   <img src="images/ServerMngr_RolesConfig.png" alt="Description" width="600">
@@ -31,21 +31,23 @@ This project demonstrates the deployment of **osTicket**, an open-source helpdes
   <img src="images/Prereq_Validate.png" alt="Description" width="600">
 </a>
   
-  <p><b>Figure 1:</b> Successful installtion of osTicket prerequisites, Utilizing IIS manager.</p>
+  <p><b>Figure 2:</b> Successful installtion of osTicket prerequisites, Utilizing IIS manager.</p>
 </div>
 
 <a href="images/Prereq_Zoom.png" target="_blank">
   <img src="images/Prereq_Zoom.png" alt="Description" width="600">
 </a>
   
-  <p><b>Figure 1:</b> Validation and inspection of PHP extensions configurations.</p>
+  <p><b>Figure 3:</b> Validation and inspection of PHP extensions configurations.</p>
 </div>
 
-<!-- Image 2 -->
-<a href="images/your-second-file.png">
-  <img src="images/your-second-file.png" alt="Server Dashboard" width="600">
+<a href="images/OSInstalled.png" target="_blank">
+  <img src="images/OSInstalled.png" alt="Description" width="600">
 </a>
-<p>Figure 2: Verifying the web server and PHP environment settings required by osTicket.</p>
+  
+  <p><b>Figure 4:</b> Successful install of osTicket with SQL Database inspection using HeidiSQL.</p>
+</div>
+
 
 ## Lessons Learned
 *   **Permission Management:** Learned how to correctly set file/folder permissions to ensure the web server could read/write necessary configuration files.
