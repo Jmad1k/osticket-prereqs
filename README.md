@@ -31,7 +31,7 @@ This project demonstrates the deployment of **osTicket**, an open-source helpdes
   <img src="images/Prereq_Validate.png" alt="Description" width="600">
 </a>
   
-  <p><b>Figure 2:</b> Successful installtion of osTicket prerequisites, Utilizing IIS manager.</p>
+  <p><b>Figure 2:</b> Successful installation of osTicket prerequisites, Utilizing IIS manager.</p>
 </div>
 
 <a href="images/Prereq_Zoom.png" target="_blank">
