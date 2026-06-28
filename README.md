@@ -20,12 +20,25 @@ This project demonstrates the deployment of **osTicket**, an open-source helpdes
 
 ## Project Evidence
 
-<div align="center">
-  <a href="images/ServerMngr_RolesConfig" target="_blank">
-    <img src="./images/your-filename.png" width="500">
-  </a>
+<a href="images/ServerMngr_RolesConfig.png" target="_blank">
+  <img src="images/ServerMngr_RolesConfig.png" alt="Description" width="600">
+</a>
   
-  <p><b>Figure 1:</b> Description of what this screenshot shows.</p>
+  <p><b>Figure 1:</b> Configuration of Roles and Features in Windows Server 2025 DataCenter environment.</p>
+</div>
+
+<a href="images/Prereq_Validate.png" target="_blank">
+  <img src="images/Prereq_Validate.png" alt="Description" width="600">
+</a>
+  
+  <p><b>Figure 1:</b> Successful installtion of osTicket prerequisites, Utilizing IIS manager.</p>
+</div>
+
+<a href="images/Prereq_Zoom.png" target="_blank">
+  <img src="images/Prereq_Zoom.png" alt="Description" width="600">
+</a>
+  
+  <p><b>Figure 1:</b> Validation and inspection of PHP extensions configurations.</p>
 </div>
 
 <!-- Image 2 -->
