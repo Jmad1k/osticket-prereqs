@@ -20,11 +20,12 @@ This project demonstrates the deployment of **osTicket**, an open-source helpdes
 
 ## Project Evidence
 
-<!-- Image 1 -->
-<a href="images/your-first-file.png">
-  <img src="images/your-first-file.png" alt="Installation Wizard" width="600">
-</a>
-<p>Figure 1: Successful completion of the osTicket web-based installation wizard.</p>
+<div align="center">
+  <a href="images/ServerMngr_RolesConfig" target="_blank">
+    <img src="images/your-filename.png" width="500">
+  </a>
+  <p><b>Figure 1:</b> Description of what this screenshot shows.</p>
+</div>
 
 <!-- Image 2 -->
 <a href="images/your-second-file.png">
