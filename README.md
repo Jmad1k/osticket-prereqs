@@ -1,3 +1,5 @@
+<img src=images/osticketLogoHeader.png width="450">
+
 # osTicket: Prerequisites and Installation
 
 This project demonstrates the deployment of **osTicket**, an open-source helpdesk ticketing system, within a virtualized Azure environment. This lab focuses on the infrastructure setup, web server configuration, and database integration required to host a functional helpdesk platform.
