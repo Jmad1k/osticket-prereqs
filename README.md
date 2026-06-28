@@ -4,13 +4,13 @@ This project demonstrates the deployment of **osTicket**, an open-source helpdes
 
 ## Infrastructure Overview
 *   **Virtualization:** Azure Virtual Machines
-*   **Operating System:** [e.g., Ubuntu Server 22.04 / Windows Server 2022]
-*   **Web Server:** [e.g., Apache / IIS]
-*   **Database:** [e.g., MySQL / MariaDB]
-*   **PHP Version:** [e.g., 8.x]
+*   **Operating System:** Windows Server 2025 DataCenter
+*   **Web Server:** IIS
+*   **Database:** MySQLi
+*   **PHP Version:** v7.3.8
 
 ## Deployment Steps
-1.  **Environment Provisioning:** Deployed a virtual machine in Azure and configured Network Security Groups (NSGs) for web traffic.
+1.  **Environment Provisioning:** Configured and deployed a virtual machine in Azure.
 2.  **Server Stack Installation:** Installed and configured the required web server, database management system, and PHP runtime environment.
 3.  **Application Setup:** Downloaded, extracted, and placed the osTicket source files in the web root directory.
 4.  **Database Configuration:** Created a dedicated database and user, granting the necessary privileges for osTicket.
@@ -33,7 +33,7 @@ This project demonstrates the deployment of **osTicket**, an open-source helpdes
 ## Lessons Learned
 *   **Permission Management:** Learned how to correctly set file/folder permissions to ensure the web server could read/write necessary configuration files.
 *   **Dependency Resolution:** Gained experience in troubleshooting missing PHP extensions required by osTicket during the pre-check phase.
-*   **Environment Hardening:** Practiced limiting network access to the server by configuring NSG inbound rules.
+*   **IIS Configuration:** Gained hands-on experience in managing server roles using Windows Server Manager.
 
 ---
-*Created by [Your Name]*
+*Created by Gerardo M.*
