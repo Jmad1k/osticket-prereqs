@@ -22,8 +22,9 @@ This project demonstrates the deployment of **osTicket**, an open-source helpdes
 
 <div align="center">
   <a href="images/ServerMngr_RolesConfig" target="_blank">
-    <img src="images/your-filename.png" width="500">
+    <img src="./images/your-filename.png" width="500">
   </a>
+  
   <p><b>Figure 1:</b> Description of what this screenshot shows.</p>
 </div>
 
